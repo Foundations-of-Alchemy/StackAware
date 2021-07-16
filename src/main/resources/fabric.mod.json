@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "stackaware",
+  "version": "${version}",
+  "name": "StackAware",
+  "description": "uses concerning hacks to add ItemStack contexts to Item's methods",
+  "authors": [
+    "HalfOf2"
+  ],
+  "license": "MPL-2.0",
+  "mixins": [
+    "stackaware.mixins.json"
+  ]
+}
